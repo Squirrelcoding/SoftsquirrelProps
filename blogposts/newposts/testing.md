@@ -1,7 +1,7 @@
 # Hello!
 # `test`
 ## `test again`
-```js
+```javascript
 console.log("this is code");
 ```
 
